@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm david072, a 16 year old student from Germany who likes to code whatever he's interested in at the moment 😄.
+
+I'd say I currently like [Rust](https://www.rust-lang.org/) the most, but I also have a lot of experience building mobile apps using [Flutter](https://flutter.dev).
+I've also recently started looking into [SerenityOS](https://github.com/SerenityOS/serenity), which I'm having a lot of fun contributing to.
+
+My biggest project so far is an app for fencers, which makes participating in tournaments much easier! You can check it out at [cofence-app.com](https://www.cofence-app.com).
+
+I've also made [funcially](https://github.com/david072/funcially) - a calculator working purely with text inputs, allowing you to write complicated calculations much easier! 
+(it's very much work in progress though and I'm not particularly happy with the architecture yet...)
+
 <!--
 **david072/david072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
