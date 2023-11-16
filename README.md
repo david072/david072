@@ -2,25 +2,17 @@
 
 I'm david072, a 16 year old student from Germany who likes to code whatever he's interested in at the moment 😄.
 
-I'd say I currently like [Rust](https://www.rust-lang.org/) the most, but I also have a lot of experience building mobile apps using [Flutter](https://flutter.dev).
-I've also recently started looking into [SerenityOS](https://github.com/SerenityOS/serenity), which I'm having a lot of fun contributing to.
+#### My favorite things
+- [Rust](https://www.rust-lang.org) - General purpose
+- [Flutter](https://flutter.dev) - Apps
+- [SerenityOS](https://github.com/SerenityOS/serenity) - Fun to work on
 
-My biggest project so far is an app for fencers, which makes participating in tournaments much easier! You can check it out at [cofence-app.com](https://www.cofence-app.com).
+#### Things I'm looking out for
+- [Zig](https://ziglang.org)
+- [Ocaml](https://ocaml.org)
 
-I've also made [funcially](https://github.com/david072/funcially) - a calculator working purely with text inputs, allowing you to write complicated calculations much easier! 
-(it's very much work in progress though and I'm not particularly happy with the architecture yet...)
+---
 
-<!--
-**david072/david072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects of mine
+- [Cofence](https://cofence-app.com) - An app for fencers to make tournaments easier
+- [funcially](https://github.com/david072/funcially) - A (semi-)work in progress calculator that works purely with text, making complicated calculations much easier
