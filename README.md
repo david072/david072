@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm david072, a 16 year old student from Germany who likes to code whatever he's interested in at the moment 😄.
+I'm david072, a 17 year old student from Germany who likes to code whatever he's interested in at the moment 😄.
 
 #### My favorite things
 - [Rust](https://www.rust-lang.org) - General purpose
