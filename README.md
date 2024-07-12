@@ -10,9 +10,3 @@ I'm david072, a 17 year old student from Germany who likes to code whatever he's
 #### Things I'm looking out for
 - [Zig](https://ziglang.org)
 - [Ocaml](https://ocaml.org)
-
----
-
-#### Projects of mine
-- [Cofence](https://cofence-app.com) - An app for fencers to make tournaments easier
-- [funcially](https://github.com/david072/funcially) - A (semi-)work in progress calculator that works purely with text, making complicated calculations much easier
